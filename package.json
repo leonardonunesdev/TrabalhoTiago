@@ -1,0 +1,19 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-require": "0.0.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "loudness": "^0.3.0",
+    "node-run-cmd": "^1.0.1"
+  }
+}

@@ -1,0 +1,44 @@
+body{
+    font-family: "Arial Black", Gadget, sans-serif;
+    background-color: black;
+}
+
+#musicTimerForm {
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    transform: translate(-17%, -55%);
+}
+
+button{
+    height: 60px!important;
+}
+
+/*.form-control{
+    width: 42%;
+} */
+
+label{
+    /* margin-left: 9%; */
+    font-size: 50px;
+    color: white;
+}
+
+input{
+    font-size: 80px!important;
+    background-color: white!important;
+}
+
+.label-div {
+    text-align: center;
+}
+
+.bootstrap-datetimepicker-widget{
+    margin: 0!important;
+    position: absolute!important;
+    top: 45%!important;
+    width: 37%!important;
+    left: 40%!important;
+    transform: translate(-24%, 57%)!important;
+}
